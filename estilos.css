@@ -9,9 +9,18 @@ nav {
     margin-bottom: 30px;
 }
 .drop {
-    padding-left:600px;
+    padding-left:791px;
 }
 
 .card{
     margin-bottom: 30px;
+}
+
+.card-title {
+    padding-top:330px;
+    margin-bottom: 20px;
+}
+
+.card button {
+    margin-bottom: 20px;
 }
