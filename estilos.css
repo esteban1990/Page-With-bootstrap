@@ -12,15 +12,23 @@ nav {
     padding-left:791px;
 }
 
-.card{
-    margin-bottom: 30px;
+.card-img-overlay{
+    margin-top: 300px;
 }
 
-.card-title {
-    padding-top:330px;
+.card-img-overlay h2 {
     margin-bottom: 20px;
 }
 
-.card button {
-    margin-bottom: 20px;
+.card-img-overlay p {
+    margin-top: 25px;
+}
+
+main {
+
+border: 1px solid black;
+}
+
+.firstseccion .card {
+    background-color: aqua;
 }
